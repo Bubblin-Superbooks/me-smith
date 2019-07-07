@@ -1,4 +1,4 @@
-A nifty classic for book-lovers on the web. To read the book go <a href="http://localhost:3000/cover/me-smith-by-caroline-lockhart" class="cover">here</a>.
+A nifty classic for book-lovers on the web. To read the book go <a href="http://bubblin.io/cover/me-smith-by-caroline-lockhart" class="cover">here</a>.
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-hipsters.svg)](https://bubblin.io/about)
